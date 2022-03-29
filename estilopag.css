@@ -1,0 +1,92 @@
+            body{
+                background: linear-gradient(to left,  #6600cc 0%, black 70%);
+               
+            }
+
+            #prin{
+                margin-left: 25%;
+                margin-top: 2px;
+                width: 1000px;
+                height: 90px;
+                text-align: center;
+                background: linear-gradient(to left,  #6600cc 0%, black 100%);
+            }
+            #titulo{
+                color:aquamarine ;
+                font-size: 50px;
+                font-family:'Times New Roman', Times, serif;
+            }
+            #tab1{
+                background: linear-gradient(to top, #6600cc 0%, #ff0000 100%);
+                border-collapse: collapse;
+                
+                border: 5px solid turquoise;
+                margin-top: 20px;
+                margin-left: 10%;
+                margin-right: 10%;
+                font-family: 'Times New Roman', Times, serif;
+                text-align: center;
+                
+            }
+            #tab2{
+                background: linear-gradient(to right, #6600cc 0%, #ff0000 100%);
+                border-collapse: collapse;
+                border: 5px solid turquoise;
+                margin-top: 100px;
+                margin-left: 10%;
+                margin-right: 10%;
+                font-family: 'Times New Roman', Times, serif;
+                text-align: center;
+                
+            }
+            th{
+                font-size: 50px;
+                font-family: 'Times New Roman', Times, serif;
+                color:rgb(215, 255, 205);
+               
+
+            }
+            tr{
+                
+            }
+            td{
+                border: 5px solid azure;
+                text-align: center;
+                padding: 20px;
+            }
+            a{
+                color: aqua;
+            }
+
+            a:hover{
+                color: chartreuse;
+                font-size: 20px;
+                width: 20px;
+                font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            }
+
+	    #tablemenu{
+                background-color:blueviolet;
+                color: aqua;
+                border-collapse: collapse;
+                border: 5px solid;
+            }
+
+            #amenu{
+                font-family: 'Times New Roman', Times, serif;
+            }
+
+            #thmenu{
+                border: 5px solid;
+                font-size: 30px;
+            }
+
+            #tdmenu{
+                border: 5px solid;
+            }
+	    .menu {
+                position: sticky;
+                top: 0px;
+                z-index: 10;
+            }
+           
